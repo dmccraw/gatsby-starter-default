@@ -96,6 +96,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b38e3955-01ef-4649-8175-dfe414a56c32/Deploy_to_Gatsby_Cloud.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210331T145402Z&X-Amz-Expires=86400&X-Amz-Signature=fab4451350200e432cf3a3520ca8da5839a82b18fd2b36e44b0438de02ddadd5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Deploy_to_Gatsby_Cloud.png%22
+<img alt="Gatsby" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b38e3955-01ef-4649-8175-dfe414a56c32/Deploy_to_Gatsby_Cloud.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210331T145402Z&X-Amz-Expires=86400&X-Amz-Signature=fab4451350200e432cf3a3520ca8da5839a82b18fd2b36e44b0438de02ddadd5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Deploy_to_Gatsby_Cloud.png%22" />
 
 <!-- AUTO-GENERATED-CONTENT:END -->
